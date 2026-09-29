@@ -38,7 +38,7 @@ The analysis distinguishes among (1) facts reported by TerrAscend in public secu
 
 **Primary document:** [August 1, 2024 Loan Agreement](../SEC-Exhibits/20240801%20Loan%20Agreement.pdf)
 
-**Original public source:** SEC filing containing the executed Loan Agreement. Exact exhibit/accession hyperlink to be inserted during the final citation audit.
+**Original SEC source:** TerrAscend Corp., Form 10-Q for the quarter ended September 30, 2024, Exhibit 10.1, Loan Agreement dated August 1, 2024, SEC Accession No. `0000950170-24-122252`. [TerrAscend-hosted SEC Exhibit 10.1](https://ir.terrascend.com/sec-filings/all-sec-filings/content/0000950170-24-122252/tsndf-ex10_1.htm)
 
 **Use in article:** This agreement supplies the underlying credit architecture. Later Michigan Exit agreements should be read as modifications and accommodations within this pre-existing secured-credit relationship.
 
@@ -247,10 +247,9 @@ Throughout the article:
 
 Before publication, the following pinpoint work remains:
 
-1. Add exact EDGAR accession/exhibit information for the August 1, 2024 Loan Agreement.
-2. Add exact note/page references for the Q1 2025, Q2 2025, FY2025 and Q1 2026 financial figures used in the article.
-3. Add pinpoint sections/pages for the June 30, September 19, April 17 and May 1 agreements.
-4. Verify the final reported citation and current appellate posture of *Tropics, LP v Green Peak Industries, Inc.*
-5. Correct any repository filename spelling/extension issues before the article is published so permanent links remain stable.
+1. Add exact note/page references for the Q1 2025, Q2 2025, FY2025 and Q1 2026 financial figures used in the article.
+2. Add pinpoint sections/pages for the June 30, September 19, April 17 and May 1 agreements.
+3. Verify the final reported citation and current appellate posture of *Tropics, LP v Green Peak Industries, Inc.*
+4. Correct any repository filename spelling/extension issues before the article is published so permanent links remain stable.
 
 This source record is intended to document the public evidentiary basis of the article, not every document reviewed during the underlying investigation.
