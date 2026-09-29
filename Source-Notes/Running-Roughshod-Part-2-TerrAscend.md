@@ -36,7 +36,7 @@ The analysis distinguishes among (1) facts reported by TerrAscend in public secu
 
 **Propositions supported:** TerrAscend and its subsidiaries entered into the FG secured term-loan facility in August 2024; FG Agency Lending LLC acted as administrative agent; the facility began at approximately $140 million; and the financing relationship predated the Michigan Exit.
 
-**Primary document:** [August 1, 2024 Loan Agreement](../SEC-Exhibits/20240801%20Loan%20Agreement.pdf)
+**Primary document:** [August 1, 2024 Loan Agreement](../SEC-Exhibits/20240801%20Loan%20Agreement%20-%20SEC%20Exhibit%2010.1.pdf)
 
 **Original SEC source:** TerrAscend Corp., Form 10-Q for the quarter ended September 30, 2024, Exhibit 10.1, Loan Agreement dated August 1, 2024, SEC Accession No. `0000950170-24-122252`. [TerrAscend-hosted SEC Exhibit 10.1](https://ir.terrascend.com/sec-filings/all-sec-filings/content/0000950170-24-122252/tsndf-ex10_1.htm)
 
@@ -88,7 +88,7 @@ The analysis distinguishes among (1) facts reported by TerrAscend in public secu
 
 **Propositions supported:** The September agreement tightened the connection between Michigan dispositions and the FG facility. It required qualifying cash proceeds from dispositions of Michigan assets to be applied to the FG term loan, together with the applicable Exit Fee, within three business days after receipt by **any Group Company**. It also restricted additional investments by non-Michigan Group Companies into specified Michigan entities absent Agent consent and tied approved funding to a 13-week cash-flow forecast satisfactory to FG. The agreement also addressed additional Exit actions and potential receivership authority.
 
-**Primary document:** [September 19, 2025 Letter Agreement Re: Michigan Exit](../SEC-Exhibits/20250919%20Letter%20Agreement%20RE:%20Michigan%20Exit)
+**Primary document:** [September 19, 2025 Letter Agreement Re: Michigan Exit](../SEC-Exhibits/20250919%20Letter%20Agreement%20RE%20Michigan%20Exit.pdf)
 
 **Original SEC source:** The executed agreement is **Exhibit B to the May 1, 2026 Forbearance Agreement filed as SEC Exhibit 10.3**: [SEC Exhibit 10.3](https://www.sec.gov/Archives/edgar/data/1778129/000119312526337940/tsndf-ex10_3.htm).
 
@@ -131,7 +131,7 @@ The approximately **$3.985 million Q4 2025** discontinued-operations investing-c
 **Primary sources:** TerrAscend SEC financial disclosures; May 1, 2026 Forbearance Agreement; Oakland County receivership pleadings and order.
 
 **Repository documents:**
-- [May 1, 2026 Forbearance Agreement](../SEC-Exhibits/20260501%20Forebearance%20Agreement.pdf)
+- [May 1, 2026 Forbearance Agreement](../SEC-Exhibits/20260501%20Forbearance%20Agreement.pdf)
 - [May 4, 2026 Complaint](../Oakland-County-Circuit-Court-Records/20260504%20Complaint%20for%20Appointment%20of%20Receiver%20and%20Other%20Relief.pdf)
 - [May 6, 2026 Receivership Order](../Oakland-County-Circuit-Court-Records/20260506%20Stipulated%20Order%20for%20Appointment%20of%20Receiver.pdf)
 
@@ -163,7 +163,7 @@ The approximately **$3.985 million Q4 2025** discontinued-operations investing-c
 
 **Propositions supported:** Certain Michigan leases and related disputes remained unresolved; specified settlements were required by May 1, 2026; failure to satisfy the contractual requirements would constitute an Event of Default; and the Loan Parties agreed to cooperate in a Michigan receivership in Oakland County with a receiver selected by FG upon the specified default.
 
-**Primary document:** [April 17, 2026 Letter Agreement Re: Pending Litigation](../SEC-Exhibits/20260417%20Pending%20Litigation)
+**Primary document:** [April 17, 2026 Letter Agreement Re: Pending Litigation](../SEC-Exhibits/20260417%20Letter%20Agreement%20RE%20Pending%20Litigation.pdf)
 
 **Original SEC source:** The executed agreement is **Exhibit C to the May 1, 2026 Forbearance Agreement filed as SEC Exhibit 10.3**: [SEC Exhibit 10.3](https://www.sec.gov/Archives/edgar/data/1778129/000119312526337940/tsndf-ex10_3.htm).
 
@@ -177,7 +177,7 @@ The approximately **$3.985 million Q4 2025** discontinued-operations investing-c
 
 **Propositions supported:** The Forbearance Agreement integrated the Michigan receivership into the FG workout. It addressed the “Successful Exit,” the Monitor property, restrictions on transfers of value into Michigan, treatment of proceeds from Michigan real-property dispositions, and pre-effective-date information requirements concerning Michigan liabilities, liens, property taxes and Monitor-related bank accounts.
 
-**Primary document:** [May 1, 2026 Forbearance Agreement](../SEC-Exhibits/20260501%20Forebearance%20Agreement.pdf)
+**Primary document:** [May 1, 2026 Forbearance Agreement](../SEC-Exhibits/20260501%20Forbearance%20Agreement.pdf)
 
 **Original SEC source:** [SEC Exhibit 10.3](https://www.sec.gov/Archives/edgar/data/1778129/000119312526337940/tsndf-ex10_3.htm)
 
@@ -246,7 +246,7 @@ The approximately **$3.985 million Q4 2025** discontinued-operations investing-c
 
 ## 16. June 23, 2026 Amendment
 
-**Primary document:** [Amendment No. 5 to Loan Agreement and Amendment No. 1 to Forbearance Agreement](../SEC-Exhibits/20260623Amendment%20No%205%20to%20Loan%20Agreement%20and%20Amendment%20No%201%20to%20Forbearance%20Agreement.pdf)
+**Primary document:** [Amendment No. 5 to Loan Agreement and Amendment No. 1 to Forbearance Agreement](../SEC-Exhibits/20260623%20Amendment%20No%205%20to%20Loan%20Agreement%20and%20Amendment%20No%201%20to%20Forbearance%20Agreement.pdf)
 
 **Original SEC source:** [SEC Exhibit 10.4](https://www.sec.gov/Archives/edgar/data/1778129/000119312526337940/tsndf-ex10_4.htm)
 
@@ -267,10 +267,8 @@ Throughout the article:
 
 ---
 
-## Citation Audit Still Open
+## Citation Audit
 
-Before publication, the following pinpoint work remains:
-
-1. Correct any repository filename spelling/extension issues before the article is published so permanent links remain stable.
+The source citations and repository links used in this record have been reviewed and normalized for publication.
 
 This source record is intended to document the public evidentiary basis of the article, not every document reviewed during the underlying investigation.
