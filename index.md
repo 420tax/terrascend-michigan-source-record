@@ -34,3 +34,9 @@ Selected filings from **FG Agency Lending LLC v. WDB Holding MI, Inc., et al.**,
 The record is organized around primary public materials. SEC filings establish TerrAscend's reported accounting treatment and financial figures. Executed agreements establish contractual rights and requirements but do not, standing alone, prove execution of every contemplated transaction. Complaint allegations are distinguished from matters established by court orders or Receiver reports. Cross-document comparisons are identified as reconstructions where no single source states the resulting proposition.
 
 This site is a research source record. The underlying documents remain preserved in the repository as archival exhibits.
+
+## A Lighter Read
+
+For a lighter read on TerrAscend's former Michigan footprint, Anna Hoffman recounts the day she mistook the bright-blue Cookies dispensary on Stadium Boulevard for an actual bakery:
+
+[How Michigan’s Rebrand as a Marijuana Capital Hurts Families — Michigan Enjoyer](https://enjoyer.com/michigan-marijuana-capital-hurts-families/)
