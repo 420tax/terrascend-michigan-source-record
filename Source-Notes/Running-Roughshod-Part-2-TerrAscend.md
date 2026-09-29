@@ -110,7 +110,11 @@ The analysis distinguishes among (1) facts reported by TerrAscend in public secu
 
 **FY2025 source:** TerrAscend Corp., Form 10-K for the year ended December 31, 2025, Consolidated Statements of Cash Flows, p. F-6, SEC Accession No. `0001193125-26-104092`. The annual statement reports $3.108 million of net cash provided by investing activities — discontinued operations for FY2025. [TerrAscend FY2025 Form 10-K](https://ir.terrascend.com/sec-filings/all-sec-filings/content/0001193125-26-104092/tsndf-20251231.htm)
 
-**Q4 2025 derivation:** The approximately $3.985 million Q4 2025 discontinued-operations investing-cash figure is not reported by TerrAscend as a standalone quarterly amount. It is derived from the $3.108 million FY2025 amount less the separately reported Q1, Q2 and Q3 discontinued-operations investing cash flows. Q1 2025 of $(0.328) million has been verified from the Q1 2026 comparative cash-flow statement. The Q2 and Q3 amounts used in the derivation remain to be pinpointed to their respective quarterly cash-flow statements before the $3.985 million figure is treated as fully citation-audited.
+**Quarterly cash-flow sources and Q4 2025 derivation:** TerrAscend's Q2 2025 Form 10-Q, Unaudited Interim Condensed Consolidated Statements of Cash Flows, p. 5, reports net cash used in investing activities — discontinued operations of **$0.737 million** for the six months ended June 30, 2025. [TerrAscend Q2 2025 Form 10-Q](https://ir.terrascend.com/sec-filings/all-sec-filings/content/0000950170-25-104975/tsndf-20250630.htm)
+
+TerrAscend's Q3 2025 Form 10-Q for the quarter ended September 30, 2025 reports net cash used in investing activities — discontinued operations of **$0.877 million** for the nine months ended September 30, 2025, SEC Accession No. `0001193125-25-268099`. [TerrAscend Q3 2025 Form 10-Q](https://ir.terrascend.com/sec-filings/all-sec-filings/content/0001193125-25-268099/tsndf-20250930.htm)
+
+The approximately **$3.985 million Q4 2025** discontinued-operations investing-cash figure is a **derived amount**, not a standalone quarterly figure reported by TerrAscend. It is calculated directly from the FY2025 and nine-month amounts: **$3.108 million FY2025 − $(0.877) million for the nine months ended September 30, 2025 = $3.985 million for Q4 2025**. As a cross-check on the quarterly sequence, the six-month amount of $(0.737) million less Q1 of $(0.328) million yields Q2 of $(0.409) million, and the nine-month amount of $(0.877) million less the six-month amount of $(0.737) million yields Q3 of $(0.140) million.
 
 **Accounting limitation:** A decline in carrying value is not equivalent to cash proceeds. PP&E movements can reflect dispositions, impairment, depreciation, reclassification and other accounting movements. The article therefore does not infer transaction proceeds merely from changes in carrying value.
 
@@ -257,7 +261,6 @@ Throughout the article:
 
 Before publication, the following pinpoint work remains:
 
-1. Verify and pinpoint the Q2 and Q3 2025 discontinued-operations investing cash-flow amounts used with the FY2025 Form 10-K amount to derive approximately $3.985 million of Q4 2025 investing cash. Q1 2025, Q2 2025 operating/balance-sheet figures, FY2025 annual investing cash, and Q1 2026 sourcing have been completed.
 2. Add pinpoint sections/pages for the June 30, September 19, April 17 and May 1 agreements.
 3. Verify the final reported citation and current appellate posture of *Tropics, LP v Green Peak Industries, Inc.*
 4. Correct any repository filename spelling/extension issues before the article is published so permanent links remain stable.
