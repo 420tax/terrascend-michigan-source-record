@@ -232,13 +232,15 @@ The approximately **$3.985 million Q4 2025** discontinued-operations investing-c
 
 **Propositions supported:** In a published August 26, 2025 opinion arising from the Skymint receivership, the Michigan Court of Appeals addressed lease rejection, cross-default provisions, sale of receivership property and assignment issues under Michigan receivership law. The Court affirmed in part, reversed in part and remanded.
 
-**Authority:** *Tropics, LP v Green Peak Industries, Inc.*, Michigan Court of Appeals, consolidated Docket Nos. 368240, 368282, 368446 and 368461, published August 26, 2025.
+**Authority:** *Tropics, LP v Green Peak Industries, Inc.*, Michigan Court of Appeals, consolidated Docket Nos. 368240, 368282, 368446 and 368461, published August 26, 2025. The Court affirmed in part, reversed in part and remanded.
 
 **Official opinion:** [Michigan Courts — published Court of Appeals opinion](https://www.courts.michigan.gov/498586/siteassets/case-documents/uploads/opinions/final/coa/20250826_c368240_81_368240.opn.pdf)
 
-**Use in article:** *Tropics* supplies a comparison for the role of Michigan receivership in the cannabis industry. It does not resolve the factual questions surrounding TerrAscend's pre-receivership Michigan Exit. The article uses the case to contrast a receivership of the distressed operating enterprise with a receivership limited to a subset of Michigan entities belonging to a continuing multistate enterprise.
+**Convenience case-law source:** [Justia — *Tropics, LP v Green Peak Industries, Inc.*](https://law.justia.com/cases/michigan/court-of-appeals-published/2025/368240.html)
 
-**Citation status:** The final publication citation and any subsequent Michigan Supreme Court procedural developments should be verified immediately before publication.
+**Current appellate posture:** Applications for leave to appeal are pending in the Michigan Supreme Court under Supreme Court Nos. **169235-6 and 169316-7**. On **April 1, 2026**, the Supreme Court directed oral argument on the applications and ordered supplemental briefing on whether a receiver appointed under the Michigan Receivership Act, MCL 554.1011 et seq., has statutory or equitable authority to strike language from a commercial lease. The official Michigan Courts docket materials show supplemental briefing continuing in May and June 2026. See, e.g., [May 19, 2026 supplemental brief, MSC No. 169235-6](https://www.courts.michigan.gov/49d824/siteassets/case-documents/briefs/msc/2025-2026/169235-6/169235_102_01_ae-supp-brf.pdf) and [June 10, 2026 supplemental brief, MSC Nos. 169235-6 / 169316-7](https://www.courts.michigan.gov/49d655/siteassets/case-documents/briefs/msc/2025-2026/169316-7/169316_88_01_ae-tropics-supp-brf.pdf).
+
+**Use in article:** *Tropics* supplies a comparison for the role of Michigan receivership in the cannabis industry. It does not resolve the factual questions surrounding TerrAscend's pre-receivership Michigan Exit. The article uses the case to contrast a receivership of the distressed operating enterprise with a receivership limited to a subset of Michigan entities belonging to a continuing multistate enterprise. Because Supreme Court review remains pending, the article should describe the Court of Appeals opinion as the published intermediate-appellate decision rather than imply that its treatment of the disputed receivership powers is the final appellate word.
 
 ---
 
@@ -269,7 +271,6 @@ Throughout the article:
 
 Before publication, the following pinpoint work remains:
 
-1. Verify the final reported citation and current appellate posture of *Tropics, LP v Green Peak Industries, Inc.*
-2. Correct any repository filename spelling/extension issues before the article is published so permanent links remain stable.
+1. Correct any repository filename spelling/extension issues before the article is published so permanent links remain stable.
 
 This source record is intended to document the public evidentiary basis of the article, not every document reviewed during the underlying investigation.
