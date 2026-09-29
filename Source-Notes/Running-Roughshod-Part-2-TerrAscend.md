@@ -78,6 +78,8 @@ The analysis distinguishes among (1) facts reported by TerrAscend in public secu
 
 **Original SEC source:** [SEC Exhibit 10.3 — May 1, 2026 Forbearance Agreement and related agreements](https://www.sec.gov/Archives/edgar/data/1778129/000119312526337940/tsndf-ex10_3.htm)
 
+**Pinpoint provisions:** Exhibit A to SEC Exhibit 10.3, June 30, 2025 Letter Agreement: **§ 1(a)(ii)–(iii), pp. 2–3** (authority to cease landlord and ordinary-course trade-payable payments, subject to Agent consent for settlements); **§ 2, p. 3 (“Agent Discretion”)** (Agent's sole-discretion written consent authority over Michigan Exit actions and dispositions and related collateral releases); and **§ 3(a)–(c), pp. 3–4 (“Collateral Monitoring”)** (Exit Tracker, at-least-weekly updates, additional information on request, weekly calls addressing estimated asset and liability values, and $75,000 quarterly collateral-monitoring fee).
+
 **Research significance:** The Exit Tracker itself has not been located in the public record reviewed for the article. The article therefore describes what the contract required the Tracker to contain, not the contents of the Tracker.
 
 ---
@@ -88,7 +90,9 @@ The analysis distinguishes among (1) facts reported by TerrAscend in public secu
 
 **Primary document:** [September 19, 2025 Letter Agreement Re: Michigan Exit](../SEC-Exhibits/20250919%20Letter%20Agreement%20RE:%20Michigan%20Exit)
 
-**Original SEC source:** The executed agreement is included among the prior related agreements filed with SEC Exhibit 10.3: [SEC Exhibit 10.3](https://www.sec.gov/Archives/edgar/data/1778129/000119312526337940/tsndf-ex10_3.htm).
+**Original SEC source:** The executed agreement is **Exhibit B to the May 1, 2026 Forbearance Agreement filed as SEC Exhibit 10.3**: [SEC Exhibit 10.3](https://www.sec.gov/Archives/edgar/data/1778129/000119312526337940/tsndf-ex10_3.htm).
+
+**Pinpoint provisions:** September 19, 2025 Letter Agreement, **§ 2(b)(i)–(iii), pp. 3–4** (definitive agreements for dispensaries/facilities, specified lease settlements and continuation of the collateral-monitoring fee); **§ 2(c), pp. 4 (“Disposition Proceeds”)** (cash proceeds from any disposition of Michigan Assets, including Specified Actions, applied to the Term Loan plus applicable Exit Fee within three business days after receipt by any Group Company); **§ 2(d), p. 4 (“Investments”)** (restrictions on non-Michigan investments into Michigan entities and use of an Agent-approved 13-Week Cash Flow Forecast); **§ 3(a)–(c), pp. 4–5 (“Consent to Specified Actions”)** (Specified Actions and Agent authority, including sole-discretion consent to dispositions and initiation of a Michigan receivership with a receiver acceptable to the Agent); and **§ 4(c), p. 5** (initial 13-Week Cash Flow Forecast as a condition precedent).
 
 **Interpretive limitation:** These provisions establish the agreed cash-flow architecture. They do not, without transaction-level records, establish the amount, recipient or ultimate application of every Michigan disposition.
 
@@ -161,7 +165,9 @@ The approximately **$3.985 million Q4 2025** discontinued-operations investing-c
 
 **Primary document:** [April 17, 2026 Letter Agreement Re: Pending Litigation](../SEC-Exhibits/20260417%20Pending%20Litigation)
 
-**Original SEC source:** Included among the related agreements filed with [SEC Exhibit 10.3](https://www.sec.gov/Archives/edgar/data/1778129/000119312526337940/tsndf-ex10_3.htm).
+**Original SEC source:** The executed agreement is **Exhibit C to the May 1, 2026 Forbearance Agreement filed as SEC Exhibit 10.3**: [SEC Exhibit 10.3](https://www.sec.gov/Archives/edgar/data/1778129/000119312526337940/tsndf-ex10_3.htm).
+
+**Pinpoint provisions:** April 17, 2026 Letter Agreement, **§ 2(a)(i), pp. 2–3 (“Resolution of Pending MI Litigation”)** (required agreed settlements, satisfactory to the Agent, by 5:00 p.m. New York City time on May 1, 2026, unless extended by the Agent); **§ 2(a)(ii), p. 3 (“Litigation Tracker”)** (weekly settlement-progress updates and additional information on request); **§ 2(a), p. 3** (breach constituted an immediate Event of Default without a cure period); and **§ 2(b)(i)–(ii), p. 3 (“Stipulation to Receivership and Venue”)** (cooperation with receivership remedies after default, Oakland County Circuit Court venue, and a receiver of the Agent's choosing). The May 1 Forbearance Agreement's recitals, **p. 2**, identify failure to satisfy § 2(a)(i) as the “Specified Existing Default.”
 
 **Related court record:** [May 4, 2026 Complaint](../Oakland-County-Circuit-Court-Records/20260504%20Complaint%20for%20Appointment%20of%20Receiver%20and%20Other%20Relief.pdf). The complaint alleges that the specified matters remained unresolved and invokes the April agreement as part of the basis for receivership.
 
@@ -176,6 +182,8 @@ The approximately **$3.985 million Q4 2025** discontinued-operations investing-c
 **Original SEC source:** [SEC Exhibit 10.3](https://www.sec.gov/Archives/edgar/data/1778129/000119312526337940/tsndf-ex10_3.htm)
 
 **SEC filing context:** TerrAscend's Q2 2026 Form 10-Q identifies the agreement as Exhibit 10.3. [SEC filing detail, Accession No. 0001193125-26-337940](https://www.sec.gov/Archives/edgar/data/1778129/000119312526337940/0001193125-26-337940-index.htm)
+
+**Pinpoint provisions:** May 1, 2026 Forbearance Agreement: **recitals, pp. 1–2** (June 30, September 19 and April 17 agreements attached as Exhibits A, B and C; Specified Existing Default; decision to seek a receiver to administer Michigan assets and liabilities and achieve orderly liquidation); **§ 1, pp. 3–4** (definitions, including Michigan Loan Parties, Monitor Lease, Monitor Property and “Successful Exit”); **§ 3, pp. 4–5 (“Limited Forbearance”)** (forbearance architecture surrounding the Michigan Receivership); **§ 6(4)(a)–(b), pp. 7–8** (recurring prepayments and continuation of the $75,000 quarterly Collateral Monitoring Fee); **§ 6(5), p. 8** (prohibition on non-Michigan Loan Parties transferring value to Michigan Loan Parties absent Agent written approval); **§ 6(6), p. 8** (Net Cash Proceeds from dispositions of Michigan Loan Party real property applied as Term Loan prepayments); and **§ 7(5), p. 9 (“Conditions Precedent”)** (schedule of liabilities over $50,000, lien searches, property-tax status and evidence of Monitor-related bank accounts).
 
 **Missing underlying materials:** The article notes, but does not purport to know the contents of, the required schedule of liabilities exceeding $50,000, lien-search materials, property-tax information and Monitor bank-account evidence unless and until those materials are located.
 
@@ -261,8 +269,7 @@ Throughout the article:
 
 Before publication, the following pinpoint work remains:
 
-2. Add pinpoint sections/pages for the June 30, September 19, April 17 and May 1 agreements.
-3. Verify the final reported citation and current appellate posture of *Tropics, LP v Green Peak Industries, Inc.*
-4. Correct any repository filename spelling/extension issues before the article is published so permanent links remain stable.
+1. Verify the final reported citation and current appellate posture of *Tropics, LP v Green Peak Industries, Inc.*
+2. Correct any repository filename spelling/extension issues before the article is published so permanent links remain stable.
 
 This source record is intended to document the public evidentiary basis of the article, not every document reviewed during the underlying investigation.
