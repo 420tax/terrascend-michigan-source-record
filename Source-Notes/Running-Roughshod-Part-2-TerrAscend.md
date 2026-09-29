@@ -48,7 +48,7 @@ The analysis distinguishes among (1) facts reported by TerrAscend in public secu
 
 **Propositions supported:** Before the Exit, TerrAscend's Michigan operation remained gross-profit positive but reported substantial operating losses and cash use. Upon committing to the Michigan Exit, TerrAscend recorded an approximately $35 million impairment of Michigan property and equipment. After the impairment, the discontinued-operations presentation continued to report substantial property and equipment and inventory.
 
-**Primary sources:** TerrAscend's 2025 quarterly SEC filings and subsequent comparative disclosures.
+**Primary sources:** TerrAscend's 2025 quarterly SEC filings, subsequent comparative disclosures, and the FY2025 Form 10-K.
 
 **Relevant figures used in the article include:**
 - Q1 2025 Michigan revenue of approximately **$6.7 million**;
@@ -108,7 +108,9 @@ The analysis distinguishes among (1) facts reported by TerrAscend in public secu
 
 **Q1 2026 source:** TerrAscend Corp., Form 10-Q for the quarter ended March 31, 2026, Note 7, “Discontinued operations,” and Unaudited Interim Condensed Consolidated Statements of Cash Flows, p. 4, filed May 7, 2026, SEC Accession No. `0001193125-26-210366`. Note 7 reports Michigan property and equipment, net of $2.038 million at March 31, 2026 and $6.222 million at December 31, 2025; the cash-flow statement reports $1.195 million of cash provided by investing activities — discontinued operations for Q1 2026. [TerrAscend Q1 2026 Form 10-Q](https://ir.terrascend.com/sec-filings/all-sec-filings/content/0001193125-26-210366/tsndf-20260331.htm)
 
-**FY2025/Q4 source status:** The FY2025 Form 10-K pinpoint for the December 31, 2025 balances and the derivation of approximately $3.985 million of Q4 2025 discontinued-operations investing cash remain to be completed. The Q4 amount should be identified as a derived amount if it is not directly reported as a standalone quarterly figure.
+**FY2025 source:** TerrAscend Corp., Form 10-K for the year ended December 31, 2025, Consolidated Statements of Cash Flows, p. F-6, SEC Accession No. `0001193125-26-104092`. The annual statement reports $3.108 million of net cash provided by investing activities — discontinued operations for FY2025. [TerrAscend FY2025 Form 10-K](https://ir.terrascend.com/sec-filings/all-sec-filings/content/0001193125-26-104092/tsndf-20251231.htm)
+
+**Q4 2025 derivation:** The approximately $3.985 million Q4 2025 discontinued-operations investing-cash figure is not reported by TerrAscend as a standalone quarterly amount. It is derived from the $3.108 million FY2025 amount less the separately reported Q1, Q2 and Q3 discontinued-operations investing cash flows. Q1 2025 of $(0.328) million has been verified from the Q1 2026 comparative cash-flow statement. The Q2 and Q3 amounts used in the derivation remain to be pinpointed to their respective quarterly cash-flow statements before the $3.985 million figure is treated as fully citation-audited.
 
 **Accounting limitation:** A decline in carrying value is not equivalent to cash proceeds. PP&E movements can reflect dispositions, impairment, depreciation, reclassification and other accounting movements. The article therefore does not infer transaction proceeds merely from changes in carrying value.
 
@@ -255,7 +257,7 @@ Throughout the article:
 
 Before publication, the following pinpoint work remains:
 
-1. Complete the FY2025 Form 10-K pinpoints and document the derivation of the approximately $3.985 million Q4 2025 discontinued-operations investing cash figure. Q1 2025, Q2 2025 and Q1 2026 financial-statement sourcing has been completed.
+1. Verify and pinpoint the Q2 and Q3 2025 discontinued-operations investing cash-flow amounts used with the FY2025 Form 10-K amount to derive approximately $3.985 million of Q4 2025 investing cash. Q1 2025, Q2 2025 operating/balance-sheet figures, FY2025 annual investing cash, and Q1 2026 sourcing have been completed.
 2. Add pinpoint sections/pages for the June 30, September 19, April 17 and May 1 agreements.
 3. Verify the final reported citation and current appellate posture of *Tropics, LP v Green Peak Industries, Inc.*
 4. Correct any repository filename spelling/extension issues before the article is published so permanent links remain stable.
