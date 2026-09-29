@@ -58,7 +58,13 @@ The analysis distinguishes among (1) facts reported by TerrAscend in public secu
 - approximately **$35.0 million** of property-and-equipment impairment associated with the Exit;
 - approximately **$23.3 million** of Michigan property and equipment and **$8.4 million** of inventory remaining at June 30, 2025.
 
-**Source status:** Exact 2025 Form 10-Q note/page references and EDGAR hyperlinks should be inserted during the final citation audit. These accounting balances describe TerrAscend's discontinued-operations reporting perimeter and should not be treated as a complete legal-entity balance sheet.
+**Q1 2025 operating-results source:** TerrAscend Corp., Form 10-Q for the quarter ended March 31, 2026, Note 7, “Discontinued operations,” filed May 7, 2026, SEC Accession No. `0001193125-26-210366`. The comparative Note 7 table reports Q1 2025 Michigan revenue of $6.693 million, gross profit of $2.120 million and loss before provision for income taxes of $3.664 million. [TerrAscend Q1 2026 Form 10-Q](https://ir.terrascend.com/sec-filings/all-sec-filings/content/0001193125-26-210366/tsndf-20260331.htm)
+
+**Q1 2025 cash-flow source:** Same Form 10-Q, Unaudited Interim Condensed Consolidated Statements of Cash Flows, p. 4. The comparative statement reports net cash used in operating activities — discontinued operations of $3.174 million for the three months ended March 31, 2025.
+
+**Q2 2025 source:** TerrAscend Corp., Form 10-Q for the quarter ended June 30, 2025, Note 7, “Discontinued operations,” pp. 11–12, filed Aug. 7, 2025, SEC Accession No. `0000950170-25-104975`. Page 12 reports June 30, 2025 Michigan inventory of $8.386 million, property and equipment, net of $23.290 million, and Q2 2025 impairment of property and equipment of $34.959 million. [TerrAscend Q2 2025 Form 10-Q](https://ir.terrascend.com/sec-filings/all-sec-filings/content/0000950170-25-104975/tsndf-20250630.htm)
+
+**Accounting limitation:** These balances describe TerrAscend's discontinued-operations reporting perimeter and should not be treated as a complete legal-entity balance sheet.
 
 ---
 
@@ -100,7 +106,9 @@ The analysis distinguishes among (1) facts reported by TerrAscend in public secu
 
 **Primary sources:** TerrAscend 2025 Form 10-K and Q1 2026 Form 10-Q.
 
-**Source status:** Exact note/page references and EDGAR hyperlinks should be inserted during the final citation audit.
+**Q1 2026 source:** TerrAscend Corp., Form 10-Q for the quarter ended March 31, 2026, Note 7, “Discontinued operations,” and Unaudited Interim Condensed Consolidated Statements of Cash Flows, p. 4, filed May 7, 2026, SEC Accession No. `0001193125-26-210366`. Note 7 reports Michigan property and equipment, net of $2.038 million at March 31, 2026 and $6.222 million at December 31, 2025; the cash-flow statement reports $1.195 million of cash provided by investing activities — discontinued operations for Q1 2026. [TerrAscend Q1 2026 Form 10-Q](https://ir.terrascend.com/sec-filings/all-sec-filings/content/0001193125-26-210366/tsndf-20260331.htm)
+
+**FY2025/Q4 source status:** The FY2025 Form 10-K pinpoint for the December 31, 2025 balances and the derivation of approximately $3.985 million of Q4 2025 discontinued-operations investing cash remain to be completed. The Q4 amount should be identified as a derived amount if it is not directly reported as a standalone quarterly figure.
 
 **Accounting limitation:** A decline in carrying value is not equivalent to cash proceeds. PP&E movements can reflect dispositions, impairment, depreciation, reclassification and other accounting movements. The article therefore does not infer transaction proceeds merely from changes in carrying value.
 
@@ -247,7 +255,7 @@ Throughout the article:
 
 Before publication, the following pinpoint work remains:
 
-1. Add exact note/page references for the Q1 2025, Q2 2025, FY2025 and Q1 2026 financial figures used in the article.
+1. Complete the FY2025 Form 10-K pinpoints and document the derivation of the approximately $3.985 million Q4 2025 discontinued-operations investing cash figure. Q1 2025, Q2 2025 and Q1 2026 financial-statement sourcing has been completed.
 2. Add pinpoint sections/pages for the June 30, September 19, April 17 and May 1 agreements.
 3. Verify the final reported citation and current appellate posture of *Tropics, LP v Green Peak Industries, Inc.*
 4. Correct any repository filename spelling/extension issues before the article is published so permanent links remain stable.
