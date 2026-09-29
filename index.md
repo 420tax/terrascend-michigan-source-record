@@ -7,9 +7,9 @@ title: "TerrAscend Michigan Source Record"
 
 This site preserves the public source record supporting **“Running Roughshod — Part Two: TerrAscend Left Michigan Before the Receiver Arrived.”**
 
-## Part Two Source Record
+## Source Notes for Running Roughshod - Part Two
 
-[Open the complete source notes for Running Roughshod — Part Two](./Source-Notes/Running-Roughshod-Part-2-TerrAscend.html)
+[Read Source Notes](./Source-Notes/Running-Roughshod-Part-2-TerrAscend.html)
 
 The source record identifies the principal public records supporting the article and distinguishes among SEC financial reporting, executed financing agreements, allegations in the Oakland County complaint, and matters established by court orders and Receiver reports.
 
