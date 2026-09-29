@@ -1,0 +1,7 @@
+title: "TerrAscend Michigan Source Record"
+description: "Public source record supporting Running Roughshod — Part Two: TerrAscend Left Michigan Before the Receiver Arrived."
+theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  input: GFM
+show_downloads: false
