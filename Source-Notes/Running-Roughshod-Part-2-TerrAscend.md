@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Running Roughshod — Part Two: TerrAscend Left Michigan Before the Receiver Arrived"
+description: "Public source record and supporting exhibits for Running Roughshod — Part Two."
+---
+
 # Running Roughshod — Part Two: TerrAscend Left Michigan Before the Receiver Arrived
 
 ## Source Notes
