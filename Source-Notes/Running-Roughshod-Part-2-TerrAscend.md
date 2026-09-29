@@ -1,0 +1,257 @@
+# Running Roughshod — Part Two: TerrAscend Left Michigan Before the Receiver Arrived
+
+## Source Notes
+
+These notes identify the principal public records supporting the factual and legal propositions in **“Running Roughshod — Part Two: TerrAscend Left Michigan Before the Receiver Arrived.”** They are organized in the approximate order in which the subjects appear in the article.
+
+The analysis distinguishes among (1) facts reported by TerrAscend in public securities filings, (2) contractual provisions contained in executed financing agreements, (3) allegations made in the Oakland County complaint, and (4) matters established by orders and reports of the Oakland County Circuit Court. A contractual requirement establishes what the parties agreed was to occur; standing alone, it does not establish that a particular transaction or payment actually occurred.
+
+---
+
+## 1. Michigan CPA Confidentiality — MCL 339.732
+
+**Proposition supported:** Michigan law generally treats information derived from professional services rendered by a certified public accountant as confidential and privileged, subject to statutory exceptions.
+
+**Authority:** Michigan Occupational Code, MCL 339.732, “Confidentiality; disclosure of information.”
+
+**Original public source:** [Michigan Legislature — MCL 339.732](https://www.legislature.mi.gov/Home/Document?objectName=mcl-339-732)
+
+**Use in article:** This provision explains why the author's professional relationship with former Stadium Ventures owners is not used as evidentiary support for the reconstruction that follows. The substantive TerrAscend analysis is instead based on public records.
+
+---
+
+## 2. TerrAscend Announces the Michigan Exit — June 30, 2025
+
+**Propositions supported:** TerrAscend publicly announced that it would exit Michigan; sell or divest its Michigan assets; use net proceeds to pay down debt; and initially expected the exit to be substantially completed during the second half of 2025. The announced Michigan footprint included cultivation/processing facilities, dispensaries and real estate.
+
+**Primary source:** TerrAscend public announcement dated June 30, 2025.
+
+**Source status:** Original public hyperlink and exact language should be inserted during the final citation audit.
+
+**Related contractual record:** The June 30, 2025 Initial Letter Agreement referenced in the later FG agreements establishes the contemporaneous lender-side architecture of the Michigan Exit.
+
+---
+
+## 3. The FG Secured Credit Facility — August 1, 2024
+
+**Propositions supported:** TerrAscend and its subsidiaries entered into the FG secured term-loan facility in August 2024; FG Agency Lending LLC acted as administrative agent; the facility began at approximately $140 million; and the financing relationship predated the Michigan Exit.
+
+**Primary document:** [August 1, 2024 Loan Agreement](../SEC-Exhibits/20240801%20Loan%20Agreement.pdf)
+
+**Original public source:** SEC filing containing the executed Loan Agreement. Exact exhibit/accession hyperlink to be inserted during the final citation audit.
+
+**Use in article:** This agreement supplies the underlying credit architecture. Later Michigan Exit agreements should be read as modifications and accommodations within this pre-existing secured-credit relationship.
+
+---
+
+## 4. Michigan Operating Results and June 2025 Impairment
+
+**Propositions supported:** Before the Exit, TerrAscend's Michigan operation remained gross-profit positive but reported substantial operating losses and cash use. Upon committing to the Michigan Exit, TerrAscend recorded an approximately $35 million impairment of Michigan property and equipment. After the impairment, the discontinued-operations presentation continued to report substantial property and equipment and inventory.
+
+**Primary sources:** TerrAscend's 2025 quarterly SEC filings and subsequent comparative disclosures.
+
+**Relevant figures used in the article include:**
+- Q1 2025 Michigan revenue of approximately **$6.7 million**;
+- gross profit of approximately **$2.1 million**;
+- pretax loss of approximately **$3.7 million**;
+- operating cash use of approximately **$3.2 million**;
+- approximately **$35.0 million** of property-and-equipment impairment associated with the Exit;
+- approximately **$23.3 million** of Michigan property and equipment and **$8.4 million** of inventory remaining at June 30, 2025.
+
+**Source status:** Exact 2025 Form 10-Q note/page references and EDGAR hyperlinks should be inserted during the final citation audit. These accounting balances describe TerrAscend's discontinued-operations reporting perimeter and should not be treated as a complete legal-entity balance sheet.
+
+---
+
+## 5. June 30, 2025 Initial Michigan Exit Letter Agreement
+
+**Propositions supported:** The initial Michigan Exit agreement created detailed FG oversight of the wind-down. It required a shareable electronic **Exit Tracker** addressing Michigan real property, real-property leases, trade payables, accrued expenses/accounts payable and other liabilities; at-least-weekly updates; weekly Exit calls including estimated asset and liability values; additional information on request; and a quarterly collateral-monitoring fee. The agreement also established FG consent rights over covered Exit actions and dispositions.
+
+**Primary document:** June 30, 2025 Initial Letter Agreement.
+
+**Document relationship:** The later September 19, 2025 agreement expressly refers to the June 30 agreement as the “Initial Letter Agreement.” The May 1, 2026 Forbearance Agreement/SEC Exhibit 10.3 includes the prior related Michigan Exit agreements.
+
+**Original SEC source:** [SEC Exhibit 10.3 — May 1, 2026 Forbearance Agreement and related agreements](https://www.sec.gov/Archives/edgar/data/1778129/000119312526337940/tsndf-ex10_3.htm)
+
+**Research significance:** The Exit Tracker itself has not been located in the public record reviewed for the article. The article therefore describes what the contract required the Tracker to contain, not the contents of the Tracker.
+
+---
+
+## 6. September 19, 2025 Letter Agreement — Michigan Exit
+
+**Propositions supported:** The September agreement tightened the connection between Michigan dispositions and the FG facility. It required qualifying cash proceeds from dispositions of Michigan assets to be applied to the FG term loan, together with the applicable Exit Fee, within three business days after receipt by **any Group Company**. It also restricted additional investments by non-Michigan Group Companies into specified Michigan entities absent Agent consent and tied approved funding to a 13-week cash-flow forecast satisfactory to FG. The agreement also addressed additional Exit actions and potential receivership authority.
+
+**Primary document:** [September 19, 2025 Letter Agreement Re: Michigan Exit](../SEC-Exhibits/20250919%20Letter%20Agreement%20RE:%20Michigan%20Exit)
+
+**Original SEC source:** The executed agreement is included among the prior related agreements filed with SEC Exhibit 10.3: [SEC Exhibit 10.3](https://www.sec.gov/Archives/edgar/data/1778129/000119312526337940/tsndf-ex10_3.htm).
+
+**Interpretive limitation:** These provisions establish the agreed cash-flow architecture. They do not, without transaction-level records, establish the amount, recipient or ultimate application of every Michigan disposition.
+
+---
+
+## 7. Asset Runoff During the Exit
+
+**Propositions supported:** During the pre-receivership wind-down, reported Michigan inventory fell to zero and property and equipment declined substantially. TerrAscend's discontinued-operations cash-flow disclosures also show investing cash inflows during Q4 2025 and Q1 2026.
+
+**Figures used in the article:**
+- June 30, 2025: PP&E approximately **$23.3 million**; inventory approximately **$8.4 million**.
+- December 31, 2025: PP&E approximately **$6.2 million**; inventory **$0**.
+- Q4 2025 discontinued-operations investing cash approximately **$4.0 million**.
+- Q1 2026 investing cash approximately **$1.2 million**, while PP&E declined by approximately **$4.2 million**.
+
+**Primary sources:** TerrAscend 2025 Form 10-K and Q1 2026 Form 10-Q.
+
+**Source status:** Exact note/page references and EDGAR hyperlinks should be inserted during the final citation audit.
+
+**Accounting limitation:** A decline in carrying value is not equivalent to cash proceeds. PP&E movements can reflect dispositions, impairment, depreciation, reclassification and other accounting movements. The article therefore does not infer transaction proceeds merely from changes in carrying value.
+
+---
+
+## 8. Monitor Township and the Accounting/Legal Perimeter
+
+**Proposition supported:** The Monitor property illustrates why TerrAscend's discontinued-operations accounting perimeter cannot automatically be treated as the legal perimeter of the later receivership. The property was removed from the discontinued-operations presentation after a decision to retain/lease rather than sell it, while Spartan Partners Properties remained the owner.
+
+**Primary sources:** TerrAscend SEC financial disclosures; May 1, 2026 Forbearance Agreement; Oakland County receivership pleadings and order.
+
+**Repository documents:**
+- [May 1, 2026 Forbearance Agreement](../SEC-Exhibits/20260501%20Forebearance%20Agreement.pdf)
+- [May 4, 2026 Complaint](../Oakland-County-Circuit-Court-Records/20260504%20Complaint%20for%20Appointment%20of%20Receiver%20and%20Other%20Relief.pdf)
+- [May 6, 2026 Receivership Order](../Oakland-County-Circuit-Court-Records/20260506%20Stipulated%20Order%20for%20Appointment%20of%20Receiver.pdf)
+
+**Caution:** Allegations in the complaint are identified as allegations where not independently established by the executed agreements, court order or TerrAscend's SEC disclosures.
+
+---
+
+## 9. The Entity Perimeter — Fifteen Exit Entities Versus Nine Receivership Entities
+
+**Proposition supported:** The original Michigan Exit encompassed fifteen Michigan Loan Parties, while the eventual Oakland County receivership encompassed nine entities. This is a comparison derived from two different primary-source lists; no single source states that “six entities were excluded.”
+
+**Original Exit entities not included among the nine receivership defendants:**
+1. KISA Enterprises MI Inc.
+2. Stadium Ventures Inc.
+3. Mayde US LLC
+4. RKD Ventures LLC
+5. Pure Releaf SP Drive LLC
+6. 3 State Park LLC
+
+**Primary sources:**
+- June 30, 2025 Initial Letter Agreement — original Michigan Exit/Michigan Loan Party schedule.
+- [May 6, 2026 Stipulated Order for Appointment of Receiver](../Oakland-County-Circuit-Court-Records/20260506%20Stipulated%20Order%20for%20Appointment%20of%20Receiver.pdf) — identifies the nine entities actually placed into receivership.
+
+**Methodological point:** The article does not infer the reason for each entity's absence from the eventual receivership merely from this comparison.
+
+---
+
+## 10. April 17, 2026 Letter Agreement — Pending Litigation
+
+**Propositions supported:** Certain Michigan leases and related disputes remained unresolved; specified settlements were required by May 1, 2026; failure to satisfy the contractual requirements would constitute an Event of Default; and the Loan Parties agreed to cooperate in a Michigan receivership in Oakland County with a receiver selected by FG upon the specified default.
+
+**Primary document:** [April 17, 2026 Letter Agreement Re: Pending Litigation](../SEC-Exhibits/20260417%20Pending%20Litigation)
+
+**Original SEC source:** Included among the related agreements filed with [SEC Exhibit 10.3](https://www.sec.gov/Archives/edgar/data/1778129/000119312526337940/tsndf-ex10_3.htm).
+
+**Related court record:** [May 4, 2026 Complaint](../Oakland-County-Circuit-Court-Records/20260504%20Complaint%20for%20Appointment%20of%20Receiver%20and%20Other%20Relief.pdf). The complaint alleges that the specified matters remained unresolved and invokes the April agreement as part of the basis for receivership.
+
+---
+
+## 11. May 1, 2026 Forbearance Agreement
+
+**Propositions supported:** The Forbearance Agreement integrated the Michigan receivership into the FG workout. It addressed the “Successful Exit,” the Monitor property, restrictions on transfers of value into Michigan, treatment of proceeds from Michigan real-property dispositions, and pre-effective-date information requirements concerning Michigan liabilities, liens, property taxes and Monitor-related bank accounts.
+
+**Primary document:** [May 1, 2026 Forbearance Agreement](../SEC-Exhibits/20260501%20Forebearance%20Agreement.pdf)
+
+**Original SEC source:** [SEC Exhibit 10.3](https://www.sec.gov/Archives/edgar/data/1778129/000119312526337940/tsndf-ex10_3.htm)
+
+**SEC filing context:** TerrAscend's Q2 2026 Form 10-Q identifies the agreement as Exhibit 10.3. [SEC filing detail, Accession No. 0001193125-26-337940](https://www.sec.gov/Archives/edgar/data/1778129/000119312526337940/0001193125-26-337940-index.htm)
+
+**Missing underlying materials:** The article notes, but does not purport to know the contents of, the required schedule of liabilities exceeding $50,000, lien-search materials, property-tax information and Monitor bank-account evidence unless and until those materials are located.
+
+---
+
+## 12. Oakland County Receivership — May 2026
+
+**Propositions supported:** FG commenced the Oakland County proceeding; nine Michigan entities were placed into receivership; and Charles D. Bullock was appointed Receiver. The order defines the Receivership Estate, identifies Remaining Collateral and grants the Receiver broad authority to preserve, investigate and dispose of estate property subject to the order and applicable law.
+
+**Primary court records:**
+- [May 4, 2026 Complaint for Appointment of Receiver and Other Relief](../Oakland-County-Circuit-Court-Records/20260504%20Complaint%20for%20Appointment%20of%20Receiver%20and%20Other%20Relief.pdf)
+- [May 6, 2026 Stipulated Order for Appointment of Receiver](../Oakland-County-Circuit-Court-Records/20260506%20Stipulated%20Order%20for%20Appointment%20of%20Receiver.pdf)
+- [June 23, 2026 Receiver's Inventory Pursuant to MCR 2.622](../Oakland-County-Circuit-Court-Records/20260623%20Receiver's%20Inventory%20Pursuant%20to%20MCR%202.622.pdf)
+
+**Important distinction:** The complaint states FG's allegations and requested relief. The May 6 order establishes the appointment and authority of the Receiver.
+
+---
+
+## 13. Post-Receivership Accounting — Deconsolidation and the $7.787 Million Retained Economic Interest
+
+**Propositions supported:** Following appointment of the Receiver, TerrAscend concluded that it no longer controlled the nine receivership entities and deconsolidated them. TerrAscend reported an approximately **$2.4 million gain on deconsolidation** and recognized a **$7.787 million retained economic interest** representing the fair value of estimated net proceeds from certain Michigan property dispositions expected to be remitted directly to FG and applied as a prepayment of the FG loan.
+
+**Primary source:** [TerrAscend Corp. Form 10-Q for the quarter ended June 30, 2026](../SEC-Exhibits/2026%20Q2%20SEC%2010-Q%20Terrascend%20Corp.pdf)
+
+**Original SEC source:** [TerrAscend Q2 2026 Form 10-Q](https://www.sec.gov/Archives/edgar/data/1778129/000119312526337940/tsndf-20260630.htm)
+
+**SEC filing detail:** [Accession No. 0001193125-26-337940](https://www.sec.gov/Archives/edgar/data/1778129/000119312526337940/0001193125-26-337940-index.htm)
+
+**Analytical significance:** The expected proceeds did not have to be distributed to TerrAscend as cash for the continuing enterprise to recognize an economic benefit; expected application against the FG obligation supplied the retained economic interest. This accounting disclosure is central to the article's distinction between legal control of the receivership property and the continuing enterprise's economic exposure to its disposition.
+
+---
+
+## 14. Receiver's Inventory and Subsequent Sale Record
+
+**Propositions supported:** The Receiver's June inventory identifies the Remaining Collateral and other estate property. A July filing reports a court-approved sale of the 4174 W. Pierson Road property and attaches the seller's settlement statement.
+
+**Primary court records:**
+- [June 23, 2026 Receiver's Inventory](../Oakland-County-Circuit-Court-Records/20260623%20Receiver's%20Inventory%20Pursuant%20to%20MCR%202.622.pdf)
+- [July 17, 2026 Notice of Receiver's Report Regarding Sale](../Oakland-County-Circuit-Court-Records/20260717%20Notice%20of%20Receiver's%20Report%20Regarding%20Sale.pdf)
+
+**Use in article/research:** These records establish that realizable property remained in the receivership estate and provide transaction-level evidence for at least one post-appointment property sale. They should not be generalized to pre-receivership transactions without separate evidence.
+
+---
+
+## 15. Michigan Receivership Law and the Skymint Comparison — *Tropics, LP v Green Peak Industries, Inc.*
+
+**Propositions supported:** In a published August 26, 2025 opinion arising from the Skymint receivership, the Michigan Court of Appeals addressed lease rejection, cross-default provisions, sale of receivership property and assignment issues under Michigan receivership law. The Court affirmed in part, reversed in part and remanded.
+
+**Authority:** *Tropics, LP v Green Peak Industries, Inc.*, Michigan Court of Appeals, consolidated Docket Nos. 368240, 368282, 368446 and 368461, published August 26, 2025.
+
+**Official opinion:** [Michigan Courts — published Court of Appeals opinion](https://www.courts.michigan.gov/498586/siteassets/case-documents/uploads/opinions/final/coa/20250826_c368240_81_368240.opn.pdf)
+
+**Use in article:** *Tropics* supplies a comparison for the role of Michigan receivership in the cannabis industry. It does not resolve the factual questions surrounding TerrAscend's pre-receivership Michigan Exit. The article uses the case to contrast a receivership of the distressed operating enterprise with a receivership limited to a subset of Michigan entities belonging to a continuing multistate enterprise.
+
+**Citation status:** The final publication citation and any subsequent Michigan Supreme Court procedural developments should be verified immediately before publication.
+
+---
+
+## 16. June 23, 2026 Amendment
+
+**Primary document:** [Amendment No. 5 to Loan Agreement and Amendment No. 1 to Forbearance Agreement](../SEC-Exhibits/20260623Amendment%20No%205%20to%20Loan%20Agreement%20and%20Amendment%20No%201%20to%20Forbearance%20Agreement.pdf)
+
+**Original SEC source:** [SEC Exhibit 10.4](https://www.sec.gov/Archives/edgar/data/1778129/000119312526337940/tsndf-ex10_4.htm)
+
+**Use in source record:** This amendment confirms the continuing relationship between the August 2024 Loan Agreement and May 1, 2026 Forbearance Agreement and documents subsequent amendments to that financing structure. It is retained as part of the contractual chain even where a particular provision is not quoted in the article.
+
+---
+
+## Source-Use Conventions
+
+Throughout the article:
+
+- **SEC financial statements** establish TerrAscend's reported accounting treatment and consolidated/discontinued-operations figures; they are not automatically treated as legal-entity balance sheets.
+- **Executed agreements** establish contractual rights, restrictions and required actions; they do not by themselves establish execution of every contemplated transaction.
+- **The Oakland County complaint** establishes what FG alleged and requested from the court; allegations are not treated as independently adjudicated facts.
+- **Court orders and Receiver reports** establish the judicial actions taken and matters reported by the Receiver.
+- **Comparisons across documents**—particularly the fifteen-entity Exit perimeter versus the nine-entity receivership perimeter—are identified as reconstructions rather than statements contained in a single source.
+- Where the public record does not establish a transaction-level fact, the article identifies the limitation rather than filling the gap by inference.
+
+---
+
+## Citation Audit Still Open
+
+Before publication, the following pinpoint work remains:
+
+1. Insert the original June 30, 2025 TerrAscend Michigan Exit announcement URL.
+2. Add exact EDGAR accession/exhibit information for the August 1, 2024 Loan Agreement.
+3. Add exact note/page references for the Q1 2025, Q2 2025, FY2025 and Q1 2026 financial figures used in the article.
+4. Add pinpoint sections/pages for the June 30, September 19, April 17 and May 1 agreements.
+5. Verify the final reported citation and current appellate posture of *Tropics, LP v Green Peak Industries, Inc.*
+6. Correct any repository filename spelling/extension issues before the article is published so permanent links remain stable.
+
+This source record is intended to document the public evidentiary basis of the article, not every document reviewed during the underlying investigation.
