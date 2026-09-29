@@ -26,7 +26,7 @@ The analysis distinguishes among (1) facts reported by TerrAscend in public secu
 
 **Primary source:** TerrAscend public announcement dated June 30, 2025.
 
-**Source status:** Original public hyperlink and exact language should be inserted during the final citation audit.
+**Original public source:** [TerrAscend — “TerrAscend Announces Strategic Exit from Michigan Market” (June 30, 2025)](https://ir.terrascend.com/news-events/press-releases/detail/265/terrascend-announces-strategic-exit-from-michigan-market)
 
 **Related contractual record:** The June 30, 2025 Initial Letter Agreement referenced in the later FG agreements establishes the contemporaneous lender-side architecture of the Michigan Exit.
 
@@ -247,11 +247,10 @@ Throughout the article:
 
 Before publication, the following pinpoint work remains:
 
-1. Insert the original June 30, 2025 TerrAscend Michigan Exit announcement URL.
-2. Add exact EDGAR accession/exhibit information for the August 1, 2024 Loan Agreement.
-3. Add exact note/page references for the Q1 2025, Q2 2025, FY2025 and Q1 2026 financial figures used in the article.
-4. Add pinpoint sections/pages for the June 30, September 19, April 17 and May 1 agreements.
-5. Verify the final reported citation and current appellate posture of *Tropics, LP v Green Peak Industries, Inc.*
-6. Correct any repository filename spelling/extension issues before the article is published so permanent links remain stable.
+1. Add exact EDGAR accession/exhibit information for the August 1, 2024 Loan Agreement.
+2. Add exact note/page references for the Q1 2025, Q2 2025, FY2025 and Q1 2026 financial figures used in the article.
+3. Add pinpoint sections/pages for the June 30, September 19, April 17 and May 1 agreements.
+4. Verify the final reported citation and current appellate posture of *Tropics, LP v Green Peak Industries, Inc.*
+5. Correct any repository filename spelling/extension issues before the article is published so permanent links remain stable.
 
 This source record is intended to document the public evidentiary basis of the article, not every document reviewed during the underlying investigation.
